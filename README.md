@@ -8,6 +8,7 @@ ISAI2021_material
 ![ortho2](https://user-images.githubusercontent.com/74333186/118401974-be624300-b6a2-11eb-9c23-b2fee6692e00.gif)
 
 密な点群の例
+マスク領域から構築に使う画像と構築領域を制限する.
 
 ![dense](https://user-images.githubusercontent.com/74333186/119100942-6edd9780-ba53-11eb-95db-4dc1ef14fe5e.jpg)
 
