@@ -12,7 +12,7 @@ ISAI2021_material
 
 ![dense](https://user-images.githubusercontent.com/74333186/119100942-6edd9780-ba53-11eb-95db-4dc1ef14fe5e.jpg)
 
-領域マスク
+領域マスク作成
 
 ![sec1](https://user-images.githubusercontent.com/74333186/119099474-e8748600-ba51-11eb-835d-3613aeac9905.jpg)
 
